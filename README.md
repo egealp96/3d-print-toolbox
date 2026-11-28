@@ -4,7 +4,7 @@
 
 🌐 **Browse with search and filters:** https://syntaxslicer.github.io/3d-print-toolbox/
 
-**137 tools** · Legend: 🆓 free · 💶 freemium/paid · 🔓 open source · 🌐 runs in browser · 🪄 no CAD needed · 🧑‍💻 needs coding · 🔑 login required
+**138 tools** · Legend: 🆓 free · 💶 freemium/paid · 🔓 open source · 🌐 runs in browser · 🪄 no CAD needed · 🧑‍💻 needs coding · 🔑 login required
 
 ## Contents
 
@@ -135,7 +135,7 @@
 - **[Meshy](https://www.meshy.ai/)** 💶 🌐 🔑 — Text- and image-to-3D with remeshing and repair. Free tier is limited and non-commercial. `STL · OBJ · GLB`
 - **[Tripo](https://www.tripo3d.ai/)** 💶 🌐 🔑 — Image- and text-to-3D with good topology and segmentation. Monthly free credits. `STL · OBJ · GLB`
 - **[Zoo Design Studio](https://zoo.dev/)** 💶 🌐 🔑 — Text-to-CAD and code-CAD (KCL) that outputs real B-rep geometry instead of meshes. `STEP · STL`
-- **[Stlify AI](https://stlify.ai/)** 💶 🌐 🪄 🔑 — Turns one photo into a printable model with millimeter sizing and an optional flat base. First model preview is free; downloads use paid credits. `STL · OBJ · GLB`
+- **[Stlify AI](https://stlify.ai/)** 💶 🌐 🪄 🔑 — Turns one photo into a printable model with millimeter sizing and an optional flat base, from US$1.99 per model. `STL · OBJ · GLB`
 
 ## 📷 3D Scanning
 
@@ -149,6 +149,7 @@
 - **[Formware Online STL Repair](https://www.formware.co/onlinestlrepair)** 🆓 🌐 🪄 — Upload a broken STL, get it back watertight: holes, flipped normals, non-manifold edges. `STL`
 - **[iamRapid STL Repair](https://iamrapid.com/tools/repair-3d-file/)** 🆓 🌐 — Diagnoses and repairs STL/OBJ meshes locally in the browser — nothing gets uploaded. `STL · OBJ`
 - **[Online 3D Viewer](https://3dviewer.net/)** 🆓 🔓 🌐 🪄 — Open-source viewer for STL, 3MF, OBJ, STEP and more, right in the browser — quick look and measure without installing anything. `STL · 3MF · OBJ · STEP`
+- **[Stlify STL Slicer](https://stlify.ai/stl-slicer)** 🆓 🌐 🪄 — Splits a closed STL into two to five printable parts with matching pegs and sockets and exports the parts as numbered STL files. `STL`
 - **[ImageToStl](https://imagetostl.com/)** 🆓 🌐 🪄 — Browser converters between almost any 3D and image format: SVG/PNG to STL, STEP/OBJ/3MF/GLB to STL and back. `STL · OBJ · 3MF · STEP`
 - **[MeshLab](https://www.meshlab.net/)** 🆓 🔓 — Swiss-army knife for meshes: cleanup, decimation, remeshing, measuring scans. `STL · OBJ · PLY`
 - **[Meshmixer](https://meshmixer.com/)** 🆓 — Classic for hollowing, cutting, tree supports and sculpt fixes. No longer developed, but still downloadable. `STL · OBJ`
